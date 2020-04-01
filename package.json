@@ -1,0 +1,25 @@
+{
+  "name": "myfirstopenui5",
+  "version": "1.0.0",
+  "description": "This is my first OpenUI5 with UI5 Tooling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodogan/myFirstOpenUI5.git"
+  },
+  "keywords": [
+    "openui5"
+  ],
+  "author": "solen dogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodogan/myFirstOpenUI5/issues"
+  },
+  "homepage": "https://github.com/sodogan/myFirstOpenUI5#readme",
+  "devDependencies": {
+    "@ui5/cli": "^2.0.1"
+  }
+}
