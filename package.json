@@ -2,8 +2,11 @@
   "name": "myfirstopenui5",
   "version": "1.0.0",
   "description": "This is my first OpenUI5 with UI5 Tooling",
-  "main": "index.js",
+  "private" :false,
   "scripts": {
+    "start": "ui5 serve -o",
+    "build": "ui5 build",
+    "prepare": "node prepare",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
